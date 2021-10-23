@@ -21,6 +21,29 @@
         <br>
         <input type="text" name="txtsalfixo"> <br>
         <br>
+        
+          <br>
+        <input type="text" name="txtsalfixo"> <br>
+        <br>
+        
+          <br>
+        <input type="text" name="txtsalfixo"> <br>
+        <br>
+        
+        
+          <br>
+        <input type="text" name="txtsalfixo"> <br>
+        <br>
+        
+        
+          <br>
+        <input type="text" name="txtsalfixo"> <br>
+        <br>
+        
+        
+          <br>
+        <input type="text" name="txtsalfixo"> <br>
+        <br>
     
         Total Vendido:
         <br>
